@@ -1,0 +1,4 @@
+Car{id=5, make='Lamborghini', model='Aventador', yearOfManufacture=2021, color='Red', price=300000.0, registrationNumber='DE23GU06'}
+Car{id=10, make='Lamborghini', model='Huracan', yearOfManufacture=2021, color='Gold', price=275000.0, registrationNumber='ZX87IO45'}
+Car{id=15, make='Lamborghini', model='Aventador', yearOfManufacture=2020, color='Gray', price=300000.0, registrationNumber='DE23GU26'}
+Car{id=20, make='Lamborghini', model='Huracan', yearOfManufacture=2021, color='Green', price=275000.0, registrationNumber='ZX87IO35'}

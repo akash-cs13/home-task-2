@@ -1,0 +1,7 @@
+Car{id=2, make='Tata', model='Indica', yearOfManufacture=2015, color='White', price=10000.0, registrationNumber='MD30GK77'}
+Car{id=3, make='Tata', model='Nano', yearOfManufacture=2020, color='Red', price=8000.0, registrationNumber='KA05SP55'}
+Car{id=7, make='Tata', model='Indica', yearOfManufacture=2020, color='Silver', price=12500.0, registrationNumber='IN33DA44'}
+Car{id=12, make='Tata', model='Indica', yearOfManufacture=2020, color='White', price=10000.0, registrationNumber='MD30GK47'}
+Car{id=13, make='Tata', model='Nano', yearOfManufacture=2014, color='Blue', price=8000.0, registrationNumber='KA05SP75'}
+Car{id=17, make='Tata', model='Indica', yearOfManufacture=2021, color='White', price=12500.0, registrationNumber='IN33DA64'}
+Car{id=18, make='Tata', model='Indica', yearOfManufacture=2022, color='Blue', price=65000.0, registrationNumber='SO63GJ56'}

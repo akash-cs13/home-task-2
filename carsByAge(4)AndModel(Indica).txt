@@ -1,0 +1,4 @@
+Car{id=7, make='Tata', model='Indica', yearOfManufacture=2020, color='Silver', price=12500.0, registrationNumber='IN33DA44'}
+Car{id=12, make='Tata', model='Indica', yearOfManufacture=2020, color='White', price=10000.0, registrationNumber='MD30GK47'}
+Car{id=17, make='Tata', model='Indica', yearOfManufacture=2021, color='White', price=12500.0, registrationNumber='IN33DA64'}
+Car{id=18, make='Tata', model='Indica', yearOfManufacture=2022, color='Blue', price=65000.0, registrationNumber='SO63GJ56'}

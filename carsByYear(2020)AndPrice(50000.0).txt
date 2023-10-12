@@ -1,0 +1,3 @@
+Car{id=8, make='Tesla', model='Model 3', yearOfManufacture=2020, color='Blue', price=65000.0, registrationNumber='SO63GJ46'}
+Car{id=15, make='Lamborghini', model='Aventador', yearOfManufacture=2020, color='Gray', price=300000.0, registrationNumber='DE23GU26'}
+Car{id=16, make='BMW', model='X5', yearOfManufacture=2020, color='Black', price=150000.0, registrationNumber='JP03GY94'}
